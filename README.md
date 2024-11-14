@@ -32,6 +32,5 @@ The way I want it to work:
 This program is not ready to be used easily, and changes are going to be made as often as I can manage, so the exact process of importing and using this program will not be the same. Therefore, I don't feel like explaining how to use it at this time. When I have added the update function and ironed out most of the kinks, then I will explain how to use it.
 
 
----
 [^1]: [Screen Extractor](https://github.com/DiabolicalGolem/Screen-Extractor)
 [^2]: i.e. Me, myself, and I.
